@@ -1,6 +1,7 @@
 ### Analyzing the performance of cyclists in the Tour de France.
 
-Live Dashboard: https://1drv.ms/x/c/7e68d66a8c897811/IQPT5jcsHuODTod_YpVd-K_IAWsdLRtIc2v89btrdzrGEKY?em=2&wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True
+Live Dashboard: https://1drv.ms/x/c/7e68d66a8c897811/IQPT5jcsHuODTod_YpVd-K_IAWsdLRtIc2v89btrdzrGEKY?em=2&wdAllowInteractivity=True&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True
+
 
 Objective: 
 - To analyze the trends in Tour de France performance over the years.
